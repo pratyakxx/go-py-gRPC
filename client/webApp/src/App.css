@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  padding-top: 2em;
+  margin-top:4em;
+  margin:2em;
+  font-size: 2em;
+}
+
+
+.SearchBar{
+  margin: 4em;
+}
+
+.connecttrue{
+  color: green;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.connectfalse{
+
+    color: red;
+    font-weight: bold;
+    font-size: 1.4em;
+}
